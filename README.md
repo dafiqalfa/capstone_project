@@ -27,4 +27,4 @@ to clone from github, run :
        You will be close the program.
  
  # Contribute
-    If you'd like to contribute to Yellow Pages, check out https://github.com/dafiqalfa/capstone_project
+    If you'd like to contribute to Database of store, check out https://github.com/dafiqalfa/capstone_project/
