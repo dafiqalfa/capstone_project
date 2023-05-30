@@ -1,0 +1,6 @@
+ID Barang; Nama Barang; Tanggal; Harga Jual; Jumlah; Sales; Harga Beli
+AB123; Sabun; 2023-05-8;3000;5; Sales C;2000
+AD234; Kecap; 2023-05-9;4000;3; Sales A;2500
+AE345; Sampo; 2023-05-10;3000;4; Sales D;2000
+AG456; Saos; 2023-05-12;3500;8; Sales E;2500
+AC890;Gunting;2023-06-12;6000;15;Sales Z;5000
